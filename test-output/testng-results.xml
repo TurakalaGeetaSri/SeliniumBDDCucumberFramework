@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="seleniumbddcucum by packages" duration-ms="7" started-at="2024-05-20T11:48:43Z" finished-at="2024-05-20T11:48:43Z">
+    <groups>
+    </groups>
+    <test name="seleniumbddcucum.seleniumbddcucum" duration-ms="7" started-at="2024-05-20T11:48:43Z" finished-at="2024-05-20T11:48:43Z">
+    </test> <!-- seleniumbddcucum.seleniumbddcucum -->
+  </suite> <!-- seleniumbddcucum by packages -->
+</testng-results>
