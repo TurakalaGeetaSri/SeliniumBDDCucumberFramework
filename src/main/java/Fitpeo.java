@@ -1,4 +1,4 @@
-package test.maven;
+package seleniumbddcucum;
 
 import static org.junit.Assert.*;
 
